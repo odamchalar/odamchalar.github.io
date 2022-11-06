@@ -1,0 +1,8 @@
+.hero-image {
+  /*background-image: url("https://codetheweb.blog/assets/img/posts/css-advanced-background-images/cover.jpg"); /* The image used */
+  background-color: rgba(19, 55, 66, 0.84); /* Used if the image is unavailable */
+  height: 500px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
